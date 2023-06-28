@@ -1,0 +1,7 @@
+post http://localhost:3000/add_customer
+Content-Type: application/json 
+
+{
+  "name" : "raja",
+  "phone":"123456789"
+}
